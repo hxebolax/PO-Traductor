@@ -38,7 +38,7 @@ traductor.traducir()
 
 PoTraductor utiliza la biblioteca polib para leer y escribir archivos PO. La biblioteca mtranslate es utilizada para realizar las traducciones de las cadenas de texto. Además, se utiliza la biblioteca re para buscar y mantener variables en las cadenas de texto.
 
-Probado en Python 3.7 / 3.11.
+Probado en Python 3.7 - 3.11.
 
 ## Ejemplo
 
@@ -56,4 +56,4 @@ Este ejemplo cargará el archivo es.po en español, lo traducirá al italiano y 
 
 ## Licencia
 
-Este programa se distribuye bajo la licencia GNU GENERAL PUBLIC LICENSE Version 2.
+Este programa se distribuye bajo la licencia GNU GENERAL PUBLIC LICENSE Version 2.0.
